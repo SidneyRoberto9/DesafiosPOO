@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-
-//OBS: N√O CONSEGUI ACERTAR NO URI, POREM ESTA FUNCIONANDO...
+ 
+//OBS: N√ÉO CONSEGUI ACERTAR NO URI, POREM ESTA FUNCIONANDO...
 
 int main(){
 
