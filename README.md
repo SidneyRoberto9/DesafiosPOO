@@ -6,5 +6,5 @@ Explicação da Meia Piramide <a href="https://www.youtube.com/watch?v=X4AXLUICQ
 <img src="Meia Pirâmide\.idea\Screenshot_1.png" title="Meia Piramide">
 
 Explicação da Escala de coma de Glasgow <a href="https://www.youtube.com/watch?v=thIt4eY2aPE">Aqui</a>
-<img src="Meia Pirâmide\.idea\Screenshot_1.png" title="Meia Piramide">
+<img src="DesafiosPOO/Escala de coma de Glasgow/Screenshot_2.png">
 
